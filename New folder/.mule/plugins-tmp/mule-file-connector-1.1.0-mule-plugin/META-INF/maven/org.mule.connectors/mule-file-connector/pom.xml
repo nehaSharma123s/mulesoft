@@ -20,7 +20,7 @@
 
     <properties>
         <commonsLangVersion>3.6</commonsLangVersion>
-        <commonsIoVersion>2.4</commonsIoVersion>
+        <commonsIoVersion>2.7</commonsIoVersion>
         <muleFileCommonsVersion>1.1.0</muleFileCommonsVersion>
         <guavaVersion>23.5-jre</guavaVersion>
 
